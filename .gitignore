@@ -1,0 +1,4 @@
+output/*
+pkgs/*
+result_diff/*
+summary/*
